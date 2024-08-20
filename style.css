@@ -1,0 +1,10 @@
+.titlemain {
+    text-align: center;
+    border-bottom: 5px ridge red;
+}
+
+#background {
+    background-image: url('orange.jpg');
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
