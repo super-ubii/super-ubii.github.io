@@ -1,10 +1,22 @@
-.titlemain {
-    text-align: center;
-    border-bottom: 5px ridge red;
+#mm_bg {
+    background-image: url('orange.jpg');
+    background-size: 100vw 100vh;
+    background-color: brown;
+    background-repeat: no-repeat;
 }
 
-#background {
-    background-image: url('orange.jpg');
-    background-repeat: no-repeat;
-    background-size: 100vw 100vh;
+
+.mm_box {
+    margin-top: 20%;
+    margin-left: 30%;
+    width: 41%;
+    height: 45%;
+    border: 5px solid black;
+    padding: 2px;
+}
+
+#mm_flag {
+    margin-right: 3px;
+    height: 25%;
+    width: 25%;
 }
